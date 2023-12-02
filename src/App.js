@@ -1,6 +1,6 @@
 import Card from "./components/Card";
 import bg from "./assets/gradient.png";
-
+//kkkkk
 function App() {
   return (
     <div
